@@ -1,0 +1,22 @@
+body {
+    background-color: #111827;
+    color: rgb(188, 71, 168);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 50px 20px;
+}
+
+h1 {
+    color: #38bdf8;
+    text-align: center;
+    font-size: 42px;
+    margin-bottom: 30px;
+}
+
+p {
+    max-width: 750px;
+    margin: 0 auto 20px auto;
+    font-size: 18px;
+    line-height: 1.8;
+}
+/*--- Her ba jeg AI (ChatGPT) om noen style ideer ---
